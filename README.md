@@ -21,6 +21,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
     - [Games](#games)
   - [Developer Tools](#developer-tools)
   - [Libraries, Frameworks and Wrappers](#libraries-frameworks-and-wrappers)
+    - [dragonruby-toolbox](#dragonruby-toolbox)
   - [Documents & Tutorials & Presentations & Videos](#documents--tutorials--presentations--videos)
     - [Presentations](#presentations)
   - [Resources](#other-resources)
@@ -41,6 +42,8 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 * [DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk)
 
 ## Libraries, Frameworks and Wrappers
+
+* [dragonruby-toolbox](https://github.com/kfischer-okarin/dragonruby-toolbox)
 
 ## Documents & Tutorials & Presentations & Videos
 
